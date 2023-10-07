@@ -1,5 +1,5 @@
 fs = require('fs') 
-////////[SOSIAL MEDIA]/////////////
+////////[SOSIAL MEDIA]//////////////////////adadada
 intagram00 = `✧ followers instagram bot
 500 followers : 5k
 1000 followers : 10k
