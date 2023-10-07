@@ -1,12 +1,12 @@
 fs = require('fs') 
 
 ////////[STOCK AKUN]/////////////
-mobilelegends00 = `Stok Akun Lagi Kosong`
-freefire00 = `Stok Akun Lagi Kosong`
-codmobile00 = `Stok Akun Lagi Kosong`
-ballpoll00 = `Stok Akun Lagi Kosong`
-pointblank00 = `Stok Akun Lagi Kosong`
-pubgmobile00 = `Stok Akun Lagi Kosong`
+mobilelegends001 = `Stok Akun Lagi Kosong`
+freefire001 = `Stok Akun Lagi Kosong`
+codmobile001 = `Stok Akun Lagi Kosong`
+ballpoll001 = `Stok Akun Lagi Kosong`
+pointblank001 = `Stok Akun Lagi Kosong`
+pubgmobile001 = `Stok Akun Lagi Kosong`
 
 
 ///////////////////////////////////////////////
