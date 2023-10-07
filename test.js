@@ -1,6 +1,6 @@
-mobilelegends001 = `Stok Akun Lagi Kosong`
-freefire001 = `Stok Akun Lagi Kosong`
-codmobile001 = `Stok Akun Lagi Kosong`
-ballpoll001 = `Stok Akun Lagi Kosong`
-pointblank001 = `Stok Akun Lagi Kosong`
-pubgmobile001 = `Stok Akun Lagi Kosong`
+const mobilelegends001 = `Stok Akun Lagi Kosong`
+const freefire001 = `Stok Akun Lagi Kosong`
+const codmobile001 = `Stok Akun Lagi Kosong`
+const ballpoll001 = `Stok Akun Lagi Kosong`
+const pointblank001 = `Stok Akun Lagi Kosong`
+const pubgmobile001 = `Stok Akun Lagi Kosong`
